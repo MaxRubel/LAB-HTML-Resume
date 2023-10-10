@@ -1,1 +1,12 @@
-body {background-color: black;}
+body {background-color: black; color: #ffffff;}
+
+h2{color: aquamarine;}
+
+#articleOne{font-family: 'Trebuchet MS';
+border: 3px solid white;}
+
+#articleTwo {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: 3px dashed green;}
+
+#articleThree {font-family: Georgia, 'Times New Roman', Times, serif;
+border: 3px solid blue;}
